@@ -1,0 +1,14 @@
+{
+    "name": "2dotstwice/phpcs-standard",
+    "description": "2dotstwice coding standard rule sets for PHP CodeSniffer",
+    "require": {
+        "squizlabs/php_codesniffer": "~2.0@dev"
+    },
+    "authors": [
+        {
+            "name": "Kristof Coomans",
+            "email": "kristof@2dotstwice.be"
+        }
+    ],
+    "minimum-stability": "dev"
+}
